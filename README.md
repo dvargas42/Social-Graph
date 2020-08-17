@@ -19,6 +19,6 @@ $ pip3 install networkx
 # Run the app (iOS)
 $ python3 SocialGraph.py
 
-
+```
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
