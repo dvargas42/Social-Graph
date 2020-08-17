@@ -1,6 +1,8 @@
 # Social-Graph
 Application that simulates finding friends by affinity.
 
+<img src="https://res.cloudinary.com/dvargas42/image/upload/v1597631394/socialgraph/Screenshot_20200816_232628_di19hw.png">
+
 ## :rocket: Technologies
 - Python 3
 ## :information_source: How To Use
