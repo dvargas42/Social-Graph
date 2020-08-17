@@ -5,7 +5,7 @@ Application that simulates finding friends by affinity.
 - Python 3
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -16,7 +16,7 @@ $ sudo apt-get install python3-tk
 $ pip3 install matplotlib
 $ pip3 install networkx
 
-# Run the app (iOS)
+# Run the app
 $ python3 SocialGraph.py
 
 ```
